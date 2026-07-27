@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Live weather forecasts, interactive charts, and rule-based travel planning using Open-Meteo APIs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
